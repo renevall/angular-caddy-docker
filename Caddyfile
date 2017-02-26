@@ -1,0 +1,6 @@
+# port 80 so no port is needed in the url
+# change "dist" to your distribution or app folder name!
+
+:2015 {
+    root ./
+}
